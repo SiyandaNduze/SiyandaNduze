@@ -10,15 +10,15 @@ I build practical software that connects AI capabilities with useful application
 
 ## About Me
 
-- 🤖 Building AI-powered applications, agent workflows, and automation tools.
-- ⚙️ Developing backend APIs and database-driven systems with Python and C#/.NET.
-- 🎙️ Exploring voice interfaces, desktop automation, and tool-using AI assistants.
-- 🧠 Interested in retrieval systems, application architecture, and maintainable software.
-- 🌱 Continuously improving through hands-on projects and iterative development.
+-  Building AI-powered applications, agent workflows, and automation tools.
+-  Developing backend APIs and database-driven systems with Python and C#/.NET.
+-  Exploring voice interfaces, desktop automation, and tool-using AI assistants.
+-  Interested in retrieval systems, application architecture, and maintainable software.
+-  Continuously improving through hands-on projects and iterative development.
 
 ## Featured Projects
 
-### 🚀 [M.A.R.S. — Multi-Agent Reasoning System](https://github.com/SiyandaNduze/M.A.R.S)
+###  [M.A.R.S. — Multi-Agent Reasoning System](https://github.com/SiyandaNduze/M.A.R.S)
 
 **A JARVIS-inspired, voice-first personal AI assistant for Windows.**
 
@@ -32,7 +32,7 @@ M.A.R.S. combines natural-language interaction with a modular tool system, voice
 
 **Technologies:** Python · Groq · OpenRouter · Ollama · Whisper · Piper TTS · Playwright · pywinauto · Tkinter
 
-### 🤖 [RAGApp](https://github.com/SiyandaNduze/RAGApp)
+###  [RAGApp](https://github.com/SiyandaNduze/RAGApp)
 
 **Ask questions about your own PDF documents using AI.**
 
@@ -45,7 +45,7 @@ A retrieval-augmented generation application that processes PDFs, creates embedd
 
 **Technologies:** Python · FastAPI · Streamlit · Qdrant · OpenAI · Inngest · LlamaIndex
 
-### 🎓 [Tutor Hire System](https://github.com/SiyandaNduze/Tutor_hire_system)
+###  [Tutor Hire System](https://github.com/SiyandaNduze/Tutor_hire_system)
 
 **A web platform connecting students with tutors.**
 
@@ -58,19 +58,19 @@ A role-based tutoring platform for managing tutoring requests, job assignments, 
 
 **Technologies:** C# · ASP.NET Core MVC · .NET 9 · Entity Framework Core · SQL Server · Bootstrap · JavaScript
 
-### 🔐 [AuthService](https://github.com/SiyandaNduze/AuthService)
+###  [AuthService](https://github.com/SiyandaNduze/AuthService)
 
 A modular .NET Web API exploring user registration, JWT authentication, refresh-token rotation, password hashing, and protected endpoints.
 
 **Technologies:** C# · .NET 8 · ASP.NET Core · Entity Framework Core · SQL Server · JWT
 
-### 🔔 [NotificationService](https://github.com/SiyandaNduze/NotificationService)
+###  [NotificationService](https://github.com/SiyandaNduze/NotificationService)
 
 A notification API that queues requests for background processing and dispatches email, SMS, or push notifications through separate sender services.
 
 **Technologies:** C# · .NET 8 · ASP.NET Core · Background Services · Twilio · Firebase Admin SDK
 
-### 🌐 [Portfolio Website](https://siyandanduze.github.io/Portfolio/)
+###  [Portfolio Website](https://siyandanduze.github.io/Portfolio/)
 
 My portfolio website, showcasing selected projects and the technologies behind them. The source code is available in the [Portfolio repository](https://github.com/SiyandaNduze/Portfolio).
 
@@ -102,9 +102,9 @@ My portfolio website, showcasing selected projects and the technologies behind t
 
 I'm open to connecting with developers, collaborating on interesting projects, and exploring software development opportunities.
 
-- 💻 [GitHub](https://github.com/SiyandaNduze)
-- 🖥️ [Portfolio](https://siyandanduze.github.io/Portfolio/)
-- 📂 [Browse all projects](https://github.com/SiyandaNduze?tab=repositories)
+-  [GitHub](https://github.com/SiyandaNduze)
+-  [Portfolio](https://siyandanduze.github.io/Portfolio/)
+-  [Browse all projects](https://github.com/SiyandaNduze?tab=repositories)
 
 ---
 
