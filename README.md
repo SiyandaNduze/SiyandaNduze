@@ -10,14 +10,14 @@ I build practical software applications, explore backend architecture, and devel
 
 ## About Me
 
-- 🤖 Building AI applications, agent workflows, and practical automation tools.
-- 🛠️ Interested in backend development, APIs, and database-driven systems.
-- 🎙️ Exploring voice interfaces, computer use, and tool-augmented AI assistants.
-- 🌱 Continuously learning through hands-on projects and iterative development.
+-  Building AI applications, agent workflows, and practical automation tools.
+-  Interested in backend development, APIs, and database-driven systems.
+-  Exploring voice interfaces, computer use, and tool-augmented AI assistants.
+-  Continuously learning through hands-on projects and iterative development.
 
 ## Featured Projects
 
-### 🚀 [M.A.R.S. — Multi-Agent Reasoning System](https://github.com/SiyandaNduze/M.A.R.S)
+###  [M.A.R.S. — Multi-Agent Reasoning System](https://github.com/SiyandaNduze/M.A.R.S)
 
 **A JARVIS-inspired, voice-first personal AI assistant for Windows.**
 
@@ -33,7 +33,7 @@ M.A.R.S. combines natural-language interaction with a modular tool system, deskt
 
 **Tech stack:** Python · Groq · OpenRouter · Ollama · Whisper · Piper TTS · Playwright · pywinauto · Tkinter
 
-### 🤖 [RAGApp](https://github.com/SiyandaNduze/RAGApp)
+###  [RAGApp](https://github.com/SiyandaNduze/RAGApp)
 
 **Ask questions about your own PDF documents using AI.**
 
@@ -47,7 +47,7 @@ A retrieval-augmented generation application that processes PDFs, creates embedd
 
 **Tech stack:** Python · FastAPI · Streamlit · Qdrant · OpenAI · Inngest · LlamaIndex
 
-### 🎓 [Tutor Hire System](https://github.com/SiyandaNduze/Tutor_hire_system)
+###  [Tutor Hire System](https://github.com/SiyandaNduze/Tutor_hire_system)
 
 **A web platform connecting students with tutors.**
 
@@ -61,7 +61,7 @@ A role-based tutoring platform designed to manage tutoring requests, job assignm
 
 **Tech stack:** C# · ASP.NET Core MVC · .NET 9 · Entity Framework Core · SQL Server · Bootstrap · JavaScript
 
-### 🌐 [Portfolio](https://github.com/SiyandaNduze/Portfolio)
+###  [Portfolio](https://github.com/SiyandaNduze/Portfolio)
 
 My portfolio project for showcasing selected work, skills, and future projects.
 
@@ -86,8 +86,8 @@ My portfolio project for showcasing selected work, skills, and future projects.
 
 I'm interested in software development opportunities, collaborative projects, and opportunities to keep learning from other developers.
 
-- 💻 [GitHub](https://github.com/SiyandaNduze)
-- 📂 [Browse my repositories](https://github.com/SiyandaNduze?tab=repositories)
+-  [GitHub](https://github.com/SiyandaNduze)
+-  [Browse my repositories](https://github.com/SiyandaNduze?tab=repositories)
 
 ---
 
