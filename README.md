@@ -4,7 +4,7 @@
 
 I build practical software applications, explore backend architecture, and develop AI-powered tools. I enjoy turning ideas into working systems—from voice-controlled desktop assistants to intelligent document search and web platforms.
 
-[GitHub Profile](https://github.com/SiyandaNduze) · [Explore My Projects](https://github.com/SiyandaNduze?tab=repositories) · [Portfolio Repository](https://github.com/SiyandaNduze/Portfolio)
+[GitHub Profile](https://github.com/SiyandaNduze) · [Explore My Projects](https://github.com/SiyandaNduze?tab=repositories) · [Portfolio](https://siyandanduze.github.io/Portfolio/)
 
 ---
 
@@ -61,7 +61,7 @@ A role-based tutoring platform designed to manage tutoring requests, job assignm
 
 **Tech stack:** C# · ASP.NET Core MVC · .NET 9 · Entity Framework Core · SQL Server · Bootstrap · JavaScript
 
-###  [Portfolio](https://github.com/SiyandaNduze/Portfolio)
+###  [Portfolio](https://siyandanduze.github.io/Portfolio/)
 
 My portfolio project for showcasing selected work, skills, and future projects.
 
